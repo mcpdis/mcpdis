@@ -1,0 +1,37 @@
+MIDlet-1: Absolute Neutrophil Count, , Formulas.AbsoluteNeutrophilCount
+MIDlet-2: Age Calculator, , Formulas.AgeCalculator
+MIDlet-3: Basal Energy Expenditure, , Formulas.BasalEnergyExpenditure
+MIDlet-4: Body Mass Index, , Formulas.BodyMassIndex
+MIDlet-5: Cardiac Output Echo, , Formulas.CardiacOutputEcho
+MIDlet-6: Corrected Calcium Alb, , Formulas.CorrectedCalciumAlb
+MIDlet-7: Corrected Phenytoin, , Formulas.CorrectedPhenytoin
+MIDlet-8: Fractional Excretion of Na, , Formulas.FractionalExcretionofNa
+MIDlet-9: Gorlin Formula, , Formulas.GorlinFormula
+MIDlet-10: Heart Rate EKG, , Formulas.HeartRateEKG
+MIDlet-11: HendersonHasselbalch, , Formulas.HendersonHasselbalch
+MIDlet-12: Hepatitis Discriminant Function, , Formulas.HepatitisDiscriminantFunction
+MIDlet-13: IV Drip Rate, , Formulas.IVDripRate
+MIDlet-14: Ideal Body Weight, , Formulas.IdealBodyWeight
+MIDlet-15: Interval Calculator, , Formulas.IntervalCalculator
+MIDlet-16: LDL Cholesterol, , Formulas.LDLCholesterol
+MIDlet-17: Mean Arterial Pressure, , Formulas.MeanArterialPressure
+MIDlet-18: O2 Transport Parameters, , Formulas.O2TransportParameters
+MIDlet-19: O2TankRemainingTime, , Formulas.O2TankRemainingTime
+MIDlet-20: Osmotic Gap (Stool), , Formulas.OsmoticGapStool
+MIDlet-21: Oxygen Index, , Formulas.OxygenIndex
+MIDlet-22: PaO2 / FiO2, , Formulas.PaO2FiO2
+MIDlet-23: Plasma Volume, , Formulas.PlasmaVolume
+MIDlet-24: Post-Test Probability, , Formulas.PostTestProbability
+MIDlet-25: Pressue Gradient (Bernoulli), , Formulas.PressueGradientBernoulli
+MIDlet-26: Reticulocyte Index, , Formulas.ReticulocyteIndex
+MIDlet-27: Transtabular K Gradient, , Formulas.TranstabularKGradient
+MIDlet-28: WintersFormula, , Formulas.WintersFormula
+FormulaArchiveUrl: http://localhost/api/v1/formulas/archive
+PatientArchiveUrl: http://localhost/api/v1/patients/archive
+UserEmail: foo@bar.com
+HashCode: 5cecb31890a208278e9778f77c7a9932d3eaec56
+MIDlet-Vendor: Vendor
+MIDlet-Name: MCPDISv0.1
+MIDlet-Version: 0.1
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0
